@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-hcpfiu.mdai-academy.com/sitemap.xml
